@@ -1,4 +1,4 @@
-# DoAn_QuanLyThuVien - 8 điểm
+# CTDL & GT - Đồ án Quản Lý Thư Viện - PTITHCM - 2019
 Đồ án quản lý thư viện, cấu trúc dữ liệu và giải thuật bằng c++
 #### 1. Tài liệu tham khảo:
 - https://cuuduongthancong.com/pvf/1733562/cau-truc-du-lieu-va-giai-thuat//ctdlgt_lt.pdf?src=afile&action=hover
